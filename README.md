@@ -7,10 +7,10 @@ The Arduino Traffic Light project utilizes the Arduino framework to control the 
 ## Usage
 To use this code snippet, follow these steps:
 
-## Set up your Arduino board and connect the LEDs for the traffic lights and pedestrian crossing to the corresponding pins defined in the code.
-1. Copy the code into your Arduino IDE or preferred code editor.
-2. Upload the code to your Arduino board.
-3. Observe the traffic light sequence and test the button functionality to trigger a change in the sequence.
+1. Set up your Arduino board and connect the LEDs for the traffic lights and pedestrian crossing to the corresponding pins defined in the code.
+2. Copy the code into your Arduino IDE or preferred code editor.
+3. Upload the code to your Arduino board.
+4. Observe the traffic light sequence and test the button functionality to trigger a change in the sequence.
 
 ## Dependencies
 This code snippet require Arduino.h library to work.
