@@ -16,4 +16,4 @@ To use this code snippet, follow these steps:
 This code snippet require Arduino.h library to work.
 
 ## Contact
-For any inquiries or feedback, feel free to reach out to me at kuna.patryk@gmail.com. You can also visit my portfolio site at patrykkuna.com.
+If you have any questions or feedback, please feel free to reach out to me at kuna.patryk@gmail.com or visit my portfolio site at [patrykkuna.com](https://patrykkuna.com)
